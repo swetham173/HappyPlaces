@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_action_add_24dp.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/shape_button_rounded.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/shape_image_view_border.xml" value="0.101" />
+        <entry key="app/src/main/res/layout/activity_add_happy_place.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_happy_place_detail.xml" value="0.19936708860759494" />
+        <entry key="app/src/main/res/layout/activity_happy_places_adapter.xml" value="0.11775362318840579" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2795969773299748" />
+        <entry key="app/src/main/res/layout/fragment_maps.xml" value="0.1802536231884058" />
+        <entry key="app/src/main/res/layout/item_happy_place.xml" value="0.22793070475260419" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
